@@ -1,6 +1,6 @@
 // Cities to be simulated
 var data = [
-  {city: "Spain", description: "Sunny", temperature: 79, unit: true},
+  {city: "Barcelona", description: "Sunny", temperature: 79, unit: true},
   {city: "Portland", description: "Partly cloudy", temperature: 75, unit: true},
   {city: "New York", description: "Rainy", temperature: 55, unit: true},
   {city: "Toronto", description: "Snowy", temperature: 25, unit: true},
